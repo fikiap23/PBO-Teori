@@ -1,3 +1,5 @@
+package Abstraksi;
+
 public class PenjualanApp {
     public static void main(String[] args) {
         Produk produk1 = new Barang("Buku", 10000, 3);

@@ -1,4 +1,6 @@
-// jasa mewarisi (inheritance) class produk
+package Abstraksi;
+
+// jasa extends class abstrack produk
 class Jasa extends Produk {
     private int durasi;
 
@@ -7,7 +9,7 @@ class Jasa extends Produk {
         this.durasi = durasi;
     }
 
-    // override class parent(wajib)
+    // override class parent abstrack(wajib)
     @Override
     public int hitungHarga() {
         return harga * durasi;

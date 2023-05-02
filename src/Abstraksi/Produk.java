@@ -1,3 +1,5 @@
+package Abstraksi;
+
 // abstract class Produk
 abstract class Produk {
     protected String nama;

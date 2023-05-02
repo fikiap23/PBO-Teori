@@ -1,4 +1,6 @@
-// Barang mewarisi (inheritance) class produk
+package Abstraksi;
+
+// Barang jasa extends class abstrack produk
 class Barang extends Produk {
     private int jumlah;
 
@@ -7,7 +9,7 @@ class Barang extends Produk {
         this.jumlah = jumlah;
     }
 
-    // override class parent(wajib)
+    // override abstrackclass parent(wajib)
     @Override
     public int hitungHarga() {
         return harga * jumlah;
