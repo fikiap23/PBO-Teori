@@ -1,18 +1,15 @@
-## Getting Started
+**Tugas PBO: Konsep Abstraction dan inheritance**
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Nama: Fiki Aprian
 
-## Folder Structure
+NIM: 1217050058
 
-The workspace contains two folders by default, where:
+PBO A
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+**Deskrispi Program**
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Produk sebagai class abstrack serta barang dan jasa sebagai class yang mengimplemtasikan produk
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+**Teknologi yang Digunakan**
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Bahasa Pemrograman: Java
