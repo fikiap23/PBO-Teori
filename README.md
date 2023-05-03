@@ -8,7 +8,7 @@ PBO B
 
 **Deskrispi Program**
 
-Produk sebagai class abstrack serta barang dan jasa sebagai class yang mengimplemtasikan produk
+Menerapkan Konsep Abstraction dan inheritance dengan studi kasus sederhana PenjualanApp dan GameRPG
 
 **Teknologi yang Digunakan**
 
